@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/totalgo/livego/rtmp"
+	"github.com/totalgo/bbllive/rtmp"
 	"flag"
 	"log"
 	"net/http"
